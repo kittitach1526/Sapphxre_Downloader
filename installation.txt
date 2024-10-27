@@ -1,4 +1,0 @@
-เพิ่มตำแหน่ง bin ลงใน Environment Variables ของ Windows:
-คลิกขวาที่ This PC หรือ My Computer > Properties > Advanced system settings > Environment Variables
-เลือก Path ใน System Variables และกด Edit
-กด New แล้วใส่ตำแหน่ง เช่น C:\ffmpeg\bin จากนั้นกด OK ทุกหน้าต่างที่เปิดไว้
